@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Camilo Rosales
 
-<!--
-**TheLiightBringer/TheLiightBringer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Camilo Andres Rosales from Bucaramanga, Colombia. I love developing videogames and developing web sites from backend 
 
-Here are some ideas to get you started:
+>[!IMPORTANT]
+>i'm not a pro... yet, but soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: []() by []()🤯
+- :dog: father of a beautiful little dog named JB
+
+### Programming Languages 🌐
+
+- Know/Using
+
+| [<>]()  | [<>]()  | [<>]()  |  [<>]() |  [<>]() | [<>]()  |
+|---|---|---|---|---|---|
+
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=plastic)
+
+![AppVeyor tests](https://img.shields.io/appveyor/tests/%3ATheLiightBringer/%3APrueba)
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/TheLiightBringer/TheLiightBringer/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
