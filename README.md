@@ -9,6 +9,15 @@ My name is Camilo Andres Rosales from Bucaramanga, Colombia. I love developing v
 - ⚡ Fun fact: []() by []()🤯
 - :dog: father of a beautiful little dog named JB
 
+| ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/TheLiightBringer/TheLiightBringer) | ![GitHub last commit](https://img.shields.io/github/last-commit/TheLiightBringer/TheLiightBringer)
+|---|---|
+
+## CONTACT WHIT ME 
+
+| ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/AndrewsSixX) | ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FAndrewsSixX) | ![GitHub followers](https://img.shields.io/github/followers/TheLiightBringer) | ![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/AndrewSixX11) |
+
+|---|---|---|---|
+
 ### Programming Languages 🌐
 
 - Know/Using
