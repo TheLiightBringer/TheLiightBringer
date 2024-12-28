@@ -18,10 +18,12 @@ My name is Camilo Andres Rosales from Bucaramanga, Colombia. I love developing v
 
 ![Static Badge](https://img.shields.io/badge/:badgeContent?style=plastic)
 
-![AppVeyor tests](https://img.shields.io/appveyor/tests/%3ATheLiightBringer/%3APrueba)
+![AppVeyor tests](https://img.shields.io/website?url=https%3A%2F%2Fx.com%2FAndrewsSixX
+)
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/TheLiightBringer/TheLiightBringer/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
